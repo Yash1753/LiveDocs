@@ -13,10 +13,7 @@
 - **Backend:** Convex
 - **Editor:** Lexical Editor
 - **UI Components:** ShadCN
-# Demo
-- **[Live Demo](https://live-docs-nine-xi.vercel.app/)** : Check out the live version of LiveDocs to see its features in action.
-# Video
-- **[Project Overview Video](https://drive.google.com/file/d/1rD4sjcuzlLmfYwQ1kM5qroqOmMokwP0N/view?usp=sharing)**: Watch a video demonstration of the project, including its main features and functionality.
+
 # Getting Started
 
 1. **Clone the Repository**:
@@ -55,10 +52,7 @@ If you'd like to contribute to LiveDocs, please follow these steps:
 4. Push to the branch (git push origin feature/YourFeature).
 5. Create a new Pull Request.
 
-# License
-This project, [LiveDocs](https://github.com/ayushbansal111/LiveDocs), is licensed under the MIT License.
 
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 ### Permissions
 - Commercial use
@@ -72,10 +66,3 @@ A short and simple permissive license with conditions only requiring preservatio
 
 ### Conditions
 - License and copyright notice
-
-# Acknowledgments
-- **[Clerk](https://clerk.com/)** for authentication 
-- **[Lexical](https://lexical.dev/)** for the rich text editor
-- **[Convex](https://www.convex.dev/)** for backend services
-- **[ShadCN](https://ui.shadcn.com/)** for UI components
-- **[Tailwind CSS](https://tailwindcss.com/)** for styling
